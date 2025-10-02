@@ -1,6 +1,6 @@
 # Hi, I'm Victor 👋
 
-Final-year **Master’s student in Machine Learning** at [KTH Royal Institute of Technology](https://www.kth.se/). Programmer with 10+ years of experience in **C++** and **Python**, passionate about **optimization**, **machine learning**, and **low-level systems**.
+Final-year **Master’s student in Machine Learning** at [KTH Royal Institute of Technology](https://www.kth.se/). Programmer with 10+ years of experience in programming, passionate about **optimization**, **machine learning**, and **low-level systems**.
 
 ---
 
