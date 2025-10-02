@@ -7,7 +7,7 @@ Final-year **Master’s in Machine Learning** at [KTH Royal Institute of Technol
 ## 🚀 Projects
 
 - [**vicmil-pip**](https://github.com/vicmil-pip-v2/vicmil-pip) – A lightweight, cross-platform C++ package manager inspired by Python's `pip`.  
-- [**YouTube Recommender**](#) – Personalized video recommendations using knowledge trees and LLM APIs.
+- [**YouTube Recommender**](https://github.com/02vicmil/youtube_recommender) – Personalized video recommendations using knowledge trees and LLM APIs.
 
 ---
 
