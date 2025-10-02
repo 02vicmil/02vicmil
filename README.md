@@ -1,12 +1,12 @@
 # Hi, I'm Victor 👋
 
-Final-year **Master’s in Machine Learning** at [KTH Royal Institute of Technology](https://www.kth.se/). Programmer with 10+ years of experience in **C++** and **Python**, passionate about **optimization, machine learning**, and **low-level systems**.
+Final-year **Master’s in Machine Learning** at [KTH Royal Institute of Technology](https://www.kth.se/). Programmer with 10+ years of experience in **C++** and **Python**, passionate about **optimization**, **machine learning**, and **low-level systems**.
 
 ---
 
 ## 🚀 Projects
 
-- [**Custom C++ Package Manager**](#) – A personal package manager for C++.  
+- [**vicmil-pip**](https://github.com/vicmil-pip-v2/vicmil-pip) – A lightweight, cross-platform C++ package manager inspired by Python's `pip`.  
 - [**YouTube Recommender**](#) – Personalized video recommendations using knowledge trees and LLM APIs.
 
 ---
@@ -24,4 +24,3 @@ Final-year **Master’s in Machine Learning** at [KTH Royal Institute of Technol
 **Languages:** C++, Python, Rust, JavaScript, SQL  
 **Tools:** Git, Docker, Azure, AWS  
 **Other:** Machine learning, optimization, workflow automation, Japanese language & culture
-
